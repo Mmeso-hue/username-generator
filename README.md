@@ -6,9 +6,9 @@ This is useful for guessing usernames from OSINT sources for CTF challenges and 
 
 Generate from a file
 
-`python generate_usernames.py -i names.txt -o usernames.txt`
+`python generate_usernames.py -i favour.txt -mmeso_hue.txt`
 
-Generate from a single name
+Generate from a single name mmesoma 
 
 `python generate_usernames.py -N "Haicen Hacks"`
 
